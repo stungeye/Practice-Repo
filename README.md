@@ -6,3 +6,5 @@
 - Step 4: Push local repo to github remote ✅
 
 This was added on my local machine.
+
+I added this line from Visual Studio.
