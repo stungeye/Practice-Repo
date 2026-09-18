@@ -7,4 +7,4 @@
 
 This was added on my local machine.
 
-I added this line from Visual Studio.
+I added this line from Visual Studio and continued the line on Github's web editor.
